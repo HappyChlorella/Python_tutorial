@@ -14,4 +14,4 @@ The tutorial combines concept explanations with runnable code examples, emphasiz
 
 # 注意
 
-本教程的压缩包文件为 Markdown 文件，使用 Wolai 软件编写，建议使用 Wolai 软件打开，以获得最佳视图效果。
+本教程的压缩包文件为 Markdown 文件，使用 Wolai 编写，建议使用 Wolai 打开，以获得最佳视图效果。
